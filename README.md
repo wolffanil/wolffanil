@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <!-- <a href="https://wolffanil.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options
   </a> -->
 </div>
 
@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,sass,styledcomponents,tailwind,pug" />
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,nextjs,mysql,nestjs,postgres,threejs,redux" />
-    <img src="https://skillicons.dev/icons?i=prisma,graphql,github,vercel,netlify,postman,git,docker,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,redux,sass,styledcomponents,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,mongodb,mysql,postgres,pug,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,prisma,graphql,github,vercel,netlify,postman,git,docker,figma" /><br>
 </div>
 
 <br/>
