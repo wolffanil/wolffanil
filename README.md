@@ -33,8 +33,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,redux,sass,styledcomponents,tailwind,threejs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,mongodb,mysql,postgres,redis,pug,html,css,bootstrap,jest,vitest" />
-    <img src="https://skillicons.dev/icons?i=vscode,prisma,graphql,github,vercel,netlify,postman,git,docker,nginx,githubactions,figma" /><img src="https://skillicons.dev/icons?i=cypress&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,go,mongodb,mysql,postgres,redis,pug,html,css,bootstrap,jest,vitest" />
+    <img src="https://skillicons.dev/icons?i=vscode,prisma,graphql,apollo,github,vercel,netlify,postman,git,docker,nginx,githubactions,figma" /><img src="https://skillicons.dev/icons?i=cypress&theme=light" /><br>
 </div>
 
 <br/>
